@@ -92,4 +92,6 @@ Data Collection → Data Cleaning → Feature Engineering → Model Training (ML
 ---
 
 ## Team Members
-- Priya
+Sivapriya M 24BCS272
+Swetha V 24BCS292
+Snekiudha N T 24BCS276
